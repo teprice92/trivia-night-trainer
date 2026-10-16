@@ -6,6 +6,13 @@ A practice app for pub quiz and trivia nights. Plain HTML, CSS and JavaScript wi
 
 Open `index.html` in a browser. That's it.
 
+## Where it's hosted
+
+- **Claude artifact** (the main copy): a private page on claude.ai, shared from its Share menu. It's the only copy with the shared audio-clip library. A scheduled Claude task adds fresh questions every Monday and republishes it.
+- **GitHub Pages** (optional, free): *Settings → Pages → Build and deployment*, choose **Deploy from a branch**, branch `main`, folder `/ (root)`. The app appears at `https://teprice92.github.io/trivia-night-trainer/`. Everything works there except the shared clip library.
+
+To republish the artifact by hand, run `scripts/build-artifact.sh <out-dir>` and publish `<out-dir>/trivia-night-trainer.html` with the files beside it.
+
 ## What it does
 
 - **150 questions** across Pop Culture, Music, History, Geography, Science & Nature, Sports and Random Facts, each tagged easy, medium or hard, most with a short fact to help it stick.
@@ -31,14 +38,13 @@ It has two sources:
 Every question is checked before it's saved: the category is valid, there are exactly three distinct wrong answers, and it doesn't duplicate an existing question.
 
 ```sh
-cd trivia-trainer
 npm install                          # only needed for the Claude source
 npm run update                       # Open Trivia DB
 ANTHROPIC_API_KEY=... npm run update:claude   # both sources
 npm test
 ```
 
-**Automatic weekly refresh:** `.github/workflows/refresh-trivia.yml` runs every Monday and commits any new questions. It only runs from the repository's default branch, so merge this branch first. To include Claude's questions, add an `ANTHROPIC_API_KEY` secret under *Settings → Secrets and variables → Actions*. You can also run it by hand from the Actions tab.
+**Automatic weekly refresh:** `.github/workflows/refresh-trivia.yml` runs every Monday and commits any new questions to `main`. To include Claude's questions, add an `ANTHROPIC_API_KEY` secret under *Settings → Secrets and variables → Actions*. You can also run it by hand from the Actions tab.
 
 ## Audio clips
 
