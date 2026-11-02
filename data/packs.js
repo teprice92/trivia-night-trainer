@@ -3182,6 +3182,1221 @@ window.TRIVIA_PACKS = {
    "n": "So it can never fall on 1 November; in 2026 it is 3 November.",
    "src": "claude",
    "added": "2026-11-02"
+  },
+  {
+   "id": "p-1h7ifmp",
+   "c": "random",
+   "d": 3,
+   "q": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+   "a": "35 Pounds",
+   "w": [
+    "30 Pounds",
+    "40 Pounds",
+    "32.50 Pounds"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-16bhc8g",
+   "c": "random",
+   "d": 1,
+   "q": "What style of beer will typically have a higher than average hop content?",
+   "a": "India Pale Ale",
+   "w": [
+    "Stout",
+    "Extra Special Bitter",
+    "Scotch Ale"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1emyfwz",
+   "c": "random",
+   "d": 2,
+   "q": "What is the last letter of the Greek alphabet?",
+   "a": "Omega",
+   "w": [
+    "Mu",
+    "Epsilon",
+    "Kappa"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1whmvqz",
+   "c": "random",
+   "d": 1,
+   "q": "When was the Playstation 3 released?",
+   "a": "November 11, 2006",
+   "w": [
+    "January 8, 2007",
+    "December 25, 2007",
+    "July 16, 2006"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1uwl0gl",
+   "c": "random",
+   "d": 2,
+   "q": "Earl Grey tea is black tea flavoured with what?",
+   "a": "Bergamot oil",
+   "w": [
+    "Lavender",
+    "Vanilla",
+    "Honey"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1brdciz",
+   "c": "random",
+   "d": 2,
+   "q": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+   "a": "Kilt",
+   "w": [
+    "Skirt",
+    "Dress",
+    "Rhobes"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1b73jfp",
+   "c": "random",
+   "d": 3,
+   "q": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+   "a": "Length",
+   "w": [
+    "Quality",
+    "Relation",
+    "Manner"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1afsrjx",
+   "c": "random",
+   "d": 2,
+   "q": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+   "a": "Petronas Twin Towers, Malaysia",
+   "w": [
+    "Emirates Towers, United Arab Emirates",
+    "Huaguoyuan Towers, China",
+    "Palm Towers, Qatar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1ug9k3l",
+   "c": "random",
+   "d": 1,
+   "q": "Which of the three astronauts of the Apollo 11 spaceflight did NOT walk on the moon?",
+   "a": "Michael Collins",
+   "w": [
+    "Buzz Aldrin",
+    "Neil Armstrong",
+    "None of them"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-c0uv2j",
+   "c": "random",
+   "d": 1,
+   "q": "What is the perimeter of a circle more commonly known as?",
+   "a": "Circumference",
+   "w": [
+    "Diameter",
+    "Radius",
+    "Arc"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-16zdmyl",
+   "c": "pop",
+   "d": 1,
+   "q": "Which of these actors does NOT appear in the 1998 movie \"Saving Private Ryan\"?",
+   "a": "Ralph Fiennes",
+   "w": [
+    "Tom Hanks",
+    "Vin Diesel",
+    "Matt Damon"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-jyliw6",
+   "c": "pop",
+   "d": 2,
+   "q": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+   "a": "San Francisco",
+   "w": [
+    "Los Angeles",
+    "Sacramento",
+    "San Jose"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-17gagm1",
+   "c": "pop",
+   "d": 2,
+   "q": "Johnny Depp made his big-screen acting debut in which film?",
+   "a": "A Nightmare on Elm Street",
+   "w": [
+    "My Bloody Valentine",
+    "Halloween",
+    "Friday the 13th"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-g7jr1z",
+   "c": "pop",
+   "d": 2,
+   "q": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+   "a": "Westworld",
+   "w": [
+    "Runaway",
+    "Android",
+    "The Terminators"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-2qg73x",
+   "c": "pop",
+   "d": 2,
+   "q": "Which one of these films are shot entirely in one-take?",
+   "a": "Russian Ark",
+   "w": [
+    "Good Will Hunting",
+    "Birdman",
+    "Schindler's List"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-169r5zo",
+   "c": "pop",
+   "d": 2,
+   "q": "In what year was the movie \"Police Academy\" released?",
+   "a": "1984",
+   "w": [
+    "1986",
+    "1985",
+    "1983"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-g0utkw",
+   "c": "pop",
+   "d": 2,
+   "q": "Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?",
+   "a": "Dan Marino",
+   "w": [
+    "John Elway",
+    "Tom Brady",
+    "Joe Montana"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-nekkhh",
+   "c": "pop",
+   "d": 3,
+   "q": "In what year does Jurassic World open in the \"Jurassic Park\" universe?",
+   "a": "2005",
+   "w": [
+    "2007",
+    "2015",
+    "2020"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-e46xkh",
+   "c": "music",
+   "d": 1,
+   "q": "Which punk rock band released hit songs such as \"Californication\", \"Can't Stop\" and \"Under the Bridge\"?",
+   "a": "Red Hot Chilli Peppers",
+   "w": [
+    "Green Day",
+    "Linkin Park",
+    "Foo Fighters"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1u8xg4d",
+   "c": "music",
+   "d": 1,
+   "q": "Where does the Mac part of the name Fleetwood Mac come from?",
+   "a": "John McVie",
+   "w": [
+    "Christine McVie",
+    "Mac McAnally",
+    "David Tennant"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-185ll1z",
+   "c": "music",
+   "d": 3,
+   "q": "Who sings the rap song \"Secret Wars Part 1\"?",
+   "a": "The Last Emperor",
+   "w": [
+    "MC Frontalot",
+    "Busdriver",
+    "Masta Killa"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1atcdwz",
+   "c": "music",
+   "d": 2,
+   "q": "Which of the following music bands is not from Finland?",
+   "a": "Sabaton",
+   "w": [
+    "Apocalyptica",
+    "Waltari",
+    "Lordi"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-motutj",
+   "c": "music",
+   "d": 3,
+   "q": "Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?",
+   "a": "The Rolling Stones",
+   "w": [
+    "Queen",
+    "Elton John",
+    "David Bowie"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-13mth78",
+   "c": "music",
+   "d": 2,
+   "q": "Which of the following rappers were NOT part of the hip-hop group Odd Future?",
+   "a": "Vince Staples",
+   "w": [
+    "Tyler, the Creator",
+    "Frank Ocean",
+    "Mike G"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-lmo3au",
+   "c": "music",
+   "d": 1,
+   "q": "Which band released songs suchs as \"Rio\", \"Girls on Film\", and \"The Reflex\"?",
+   "a": "Duran Duran",
+   "w": [
+    "The Cure",
+    "New Order",
+    "Depeche Mode"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-44mnj2",
+   "c": "music",
+   "d": 2,
+   "q": "Which of these songs by artist Eminem contain the lyric \"Nice to meet you. Hi, my name is... I forgot my name!\"?",
+   "a": "Rain Man",
+   "w": [
+    "Without Me",
+    "Kim",
+    "Square Dance"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-11xogi3",
+   "c": "music",
+   "d": 2,
+   "q": "\"The Genius\" is the original and secondary name of which Wu-Tang Clan member?",
+   "a": "GZA",
+   "w": [
+    "Ghostface Killah",
+    "Ol' Dirty Bastard",
+    "Raekwon the Chef"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1r5xkq5",
+   "c": "pop",
+   "d": 2,
+   "q": "In Naruto: Shippuden, which of the following elements is a \"Kekkei Tōta?\"",
+   "a": "Particle Style",
+   "w": [
+    "Any Doujutsu",
+    "Shadow Style",
+    "Ice Style"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1ksbpf9",
+   "c": "pop",
+   "d": 2,
+   "q": "Which track by \"Massive Attack\" is used for the theme of \"House\"?",
+   "a": "Teardrop",
+   "w": [
+    "Protection",
+    "Angel",
+    "Black Milk"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-16kpbf7",
+   "c": "pop",
+   "d": 2,
+   "q": "Pat Cashman, the announcer for Super Smash Brothers: Brawl, also featured prominently in what famous TV show?",
+   "a": "Bill Nye the Science Guy",
+   "w": [
+    "The Muppet Show",
+    "Scooby-Doo",
+    "Seinfeld"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-kwgn22",
+   "c": "pop",
+   "d": 2,
+   "q": "Which of the following was not an actor/actress on the American television show \"Saturday Night Live\" in Season 42?",
+   "a": "Tina Fey",
+   "w": [
+    "Mikey Day",
+    "Kate McKinnon",
+    "Sasheer Zamata"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1oes01h",
+   "c": "pop",
+   "d": 1,
+   "q": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+   "a": "Pennsylvania",
+   "w": [
+    "Florida",
+    "California",
+    "New Jersey"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1xpb6bm",
+   "c": "pop",
+   "d": 1,
+   "q": "Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"?",
+   "a": "LazyTown",
+   "w": [
+    "Sofia the First",
+    "DuckTales",
+    "Tom and Jerry"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1ipat95",
+   "c": "pop",
+   "d": 2,
+   "q": "In \"Breaking Bad,\" which main character was planned to be killed in Season 1 but wasn't because the show creator liked the actor?",
+   "a": "Jesse Pinkman",
+   "w": [
+    "Saul Goodman",
+    "Gus Fring",
+    "Hank Schrader"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-8epyqx",
+   "c": "pop",
+   "d": 1,
+   "q": "In which British seaside town was the BBC sitcom \"Fawlty Towers\" set?",
+   "a": "Torquay",
+   "w": [
+    "Blackpool",
+    "Bournemouth",
+    "Great Yarmouth"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-j5lans",
+   "c": "pop",
+   "d": 2,
+   "q": "Which boxing personality was one of the presenters in the 1999 revival of It's a Knockout?",
+   "a": "Frank Bruno",
+   "w": [
+    "Henry Cooper",
+    "Muhammad Ali",
+    "Joe Fraiser"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1buskh1",
+   "c": "pop",
+   "d": 2,
+   "q": "\"The A Team\" first aired in the USA and in the UK in what year?",
+   "a": "1983",
+   "w": [
+    "1981",
+    "1985",
+    "1987"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-19qzm4b",
+   "c": "sci",
+   "d": 1,
+   "q": "What is the atomic mass of Carbon?",
+   "a": "12",
+   "w": [
+    "14",
+    "16",
+    "10"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-podn24",
+   "c": "sci",
+   "d": 2,
+   "q": "Who developed the first successful polio vaccine in the 1950s?",
+   "a": "Jonas Salk",
+   "w": [
+    "John F. Enders",
+    "Thomas Weller",
+    "Frederick Robbins"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-kvvyq0",
+   "c": "sci",
+   "d": 1,
+   "q": "What does LASER stand for?",
+   "a": "Light amplification by stimulated emission of radiation",
+   "w": [
+    "Lite analysing by stereo ecorazer",
+    "Light amplifier by standby energy of radio",
+    "Life antimatter by standing entry of range"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-drj26d",
+   "c": "sci",
+   "d": 3,
+   "q": "Coulrophobia is the irrational fear of what?",
+   "a": "Clowns",
+   "w": [
+    "Cemeteries",
+    "Needles",
+    "Tunnels"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1tqj8un",
+   "c": "sci",
+   "d": 2,
+   "q": "Which of these is NOT a bone found in the human arm?",
+   "a": "Tibia",
+   "w": [
+    "Humerus",
+    "Ulna",
+    "Radius"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-or43tk",
+   "c": "sci",
+   "d": 1,
+   "q": "What did Gregory Mendel use to test genetic crossovers?",
+   "a": "Peas",
+   "w": [
+    "Cats",
+    "Flowers",
+    "Parrots"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-10cg5k5",
+   "c": "sci",
+   "d": 1,
+   "q": "Which gas forms about 78% of the Earth’s atmosphere?",
+   "a": "Nitrogen",
+   "w": [
+    "Oxygen",
+    "Argon",
+    "Carbon Dioxide"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-lba74n",
+   "c": "sci",
+   "d": 2,
+   "q": "What is the scientific term for 'taste'?",
+   "a": "Gustatory Perception",
+   "w": [
+    "Olfaction",
+    "Somatosensation",
+    "Auditory Perception"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1mee8w2",
+   "c": "sci",
+   "d": 3,
+   "q": "In the Scoville scale, what is the hottest chemical?",
+   "a": "Resiniferatoxin",
+   "w": [
+    "Capsaicin",
+    "Dihydrocapsaicin",
+    "Tinyatoxin"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-ln0wr5",
+   "c": "sports",
+   "d": 3,
+   "q": "What is “The Sport of Kings”?",
+   "a": "Horse Racing",
+   "w": [
+    "Chess",
+    "Jousting",
+    "Fencing"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-zlxmb7",
+   "c": "sports",
+   "d": 1,
+   "q": "Which driver has been the Formula 1 world champion for a record 7 times?",
+   "a": "Michael Schumacher",
+   "w": [
+    "Ayrton Senna",
+    "Fernando Alonso",
+    "Jim Clark"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1x1uj4d",
+   "c": "sports",
+   "d": 1,
+   "q": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+   "a": "France",
+   "w": [
+    "Croatia",
+    "Belgium",
+    "England"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-x4f71h",
+   "c": "sports",
+   "d": 2,
+   "q": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+   "a": "Duck",
+   "w": [
+    "Bye",
+    "Beamer",
+    "Carry"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-m98ex7",
+   "c": "sports",
+   "d": 2,
+   "q": "At which bridge does the annual Oxford and Cambridge boat race start?",
+   "a": "Putney",
+   "w": [
+    "Hammersmith",
+    "Vauxhall",
+    "Battersea"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-12miy4j",
+   "c": "sports",
+   "d": 2,
+   "q": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+   "a": "13",
+   "w": [
+    "11",
+    "20",
+    "22"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-2bdk1x",
+   "c": "sports",
+   "d": 1,
+   "q": "Which African American is in part responsible for integrating  Major League baseball?",
+   "a": "Jackie Robinson",
+   "w": [
+    "Curt Flood",
+    "Roy Campanella",
+    "Satchell Paige"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1rvvo0r",
+   "c": "sports",
+   "d": 1,
+   "q": "Who is often called \"the Maestro\" in the men's tennis circuit?",
+   "a": "Roger Federer",
+   "w": [
+    "Bill Tilden",
+    "Boris Becker",
+    "Pete Sampras"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-pfm9jz",
+   "c": "sports",
+   "d": 2,
+   "q": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+   "a": "Jose Fernandez",
+   "w": [
+    "Jacob deGrom",
+    "Shelby Miller",
+    "Matt Harvey"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-z4wzu6",
+   "c": "geo",
+   "d": 1,
+   "q": "Which UK country features a dragon on their flag?",
+   "a": "Wales",
+   "w": [
+    "England",
+    "North Ireland",
+    "Scotland"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-qe0869",
+   "c": "geo",
+   "d": 2,
+   "q": "The towns of Brugelette, Arlon and Ath are located in which country?",
+   "a": "Belgium",
+   "w": [
+    "Andorra",
+    "France",
+    "Luxembourg"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-18zb8r2",
+   "c": "geo",
+   "d": 2,
+   "q": "Which of these countries is not written in its native language?",
+   "a": "Slovaško",
+   "w": [
+    "Suomi",
+    "Schweiz",
+    "Elláda"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-nkurv9",
+   "c": "geo",
+   "d": 2,
+   "q": "Which English county will you find the University of East Anglia?",
+   "a": "Norfolk",
+   "w": [
+    "Suffolk",
+    "Essex",
+    "Cambridgeshire"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1sjzoxx",
+   "c": "geo",
+   "d": 2,
+   "q": "What tiny principality lies between Spain and France?",
+   "a": "Andorra",
+   "w": [
+    "Liechtenstein",
+    "Monaco",
+    "San Marino"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-12a0b1e",
+   "c": "geo",
+   "d": 2,
+   "q": "Which of these countries is located the FURTHEST away from the South China Sea?",
+   "a": "Bangladesh",
+   "w": [
+    "Malaysia",
+    "Vietnam",
+    "Philippines"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-mm6rp",
+   "c": "geo",
+   "d": 2,
+   "q": "Which Canadian province has Charlottetown as its capital?",
+   "a": "Prince Edward Island",
+   "w": [
+    "Saskachewan",
+    "Northwest Terrirories",
+    "Ontario"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-k1v9zb",
+   "c": "geo",
+   "d": 1,
+   "q": "What is the smallest country in the world?",
+   "a": "Vatican City",
+   "w": [
+    "Maldives",
+    "Monaco",
+    "Malta"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-vwg6vc",
+   "c": "geo",
+   "d": 3,
+   "q": "What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?",
+   "a": "Longyearbyen",
+   "w": [
+    "Sveagruva",
+    "Ny-Ålesund",
+    "Barentsburg"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-10hhby7",
+   "c": "history",
+   "d": 1,
+   "q": "To what political party did Abraham Lincoln belong when elected POTUS?",
+   "a": "Republican",
+   "w": [
+    "Democrat",
+    "Independent",
+    "Whig"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1lgm167",
+   "c": "history",
+   "d": 3,
+   "q": "What was the last colony the UK ceded marking the end of the British Empire?",
+   "a": "Hong Kong",
+   "w": [
+    "India",
+    "Australia",
+    "Ireland"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-gjtutm",
+   "c": "history",
+   "d": 2,
+   "q": "Who was the leader of Sweden in the Great Northern War?",
+   "a": "Charles XII",
+   "w": [
+    "Per Albin Hansson",
+    "Peter the Great",
+    "Gustavus Adolphus"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-15k72vx",
+   "c": "history",
+   "d": 2,
+   "q": "Which of these countries was NOT a part of the Soviet Union?",
+   "a": "Afghanistan",
+   "w": [
+    "Turkmenistan",
+    "Kazakhstan",
+    "Uzbekistan"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-17po6ij",
+   "c": "history",
+   "d": 2,
+   "q": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+   "a": "Goldsboro, North Carolina",
+   "w": [
+    "Hicksville, New York",
+    "Jacksonville, Florida",
+    "Conway, Arkansas"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-udhp6s",
+   "c": "history",
+   "d": 2,
+   "q": "Which Louis was known as 'The Sun King of France'?",
+   "a": "Louis XIV",
+   "w": [
+    "Louis XIII",
+    "Louis XV",
+    "Louis XVI"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1uyra9v",
+   "c": "history",
+   "d": 2,
+   "q": "In which year did the First World War begin?",
+   "a": "1914",
+   "w": [
+    "1930",
+    "1917",
+    "1939"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-14esffa",
+   "c": "history",
+   "d": 3,
+   "q": "What micro-state is considered to have the oldest constitution still in effect?",
+   "a": "San Marino",
+   "w": [
+    "Andorra",
+    "Monaco",
+    "Saint Kitts and Nevis"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-13q4me5",
+   "c": "history",
+   "d": 2,
+   "q": "Which of the following snipers has the highest amount of confirmed kills?",
+   "a": "Simo Häyhä",
+   "w": [
+    "Chris Kyle",
+    "Vasily Zaytsev",
+    "Craig Harrison"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1ty6zhd",
+   "c": "history",
+   "d": 3,
+   "q": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+   "a": "Great Pyramid of Giza",
+   "w": [
+    "Colossus of Rhodes",
+    "Lighthouse of Alexandria",
+    "Statue of Zeus at Olympia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-zfmavi",
+   "c": "sci",
+   "d": 3,
+   "q": "Which of these is a colony of polyps and not a jellyfish?",
+   "a": "Portuguese Man-of-War",
+   "w": [
+    "Sea Wasp",
+    "Irukandji",
+    "Sea Nettle"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-qrbtjn",
+   "c": "sci",
+   "d": 1,
+   "q": "Wombats are native to which Country?",
+   "a": "Australia",
+   "w": [
+    "New Zealand",
+    "Papua New Guinea",
+    "Palau"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-qqrcrp",
+   "c": "sci",
+   "d": 3,
+   "q": "What is the collective noun for vultures?",
+   "a": "Wake",
+   "w": [
+    "Ambush",
+    "Building",
+    "Gaze"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-4sh37j",
+   "c": "sci",
+   "d": 1,
+   "q": "Which is the national animal of India?",
+   "a": "Tiger",
+   "w": [
+    "Lion",
+    "Horse",
+    "Camel"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1dekfvx",
+   "c": "sci",
+   "d": 3,
+   "q": "What bird is born with claws on its wing digits?",
+   "a": "Hoatzin",
+   "w": [
+    "Cormorant",
+    "Cassowary",
+    "Secretary bird"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-xkrljr",
+   "c": "sci",
+   "d": 2,
+   "q": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+   "a": "Pugs",
+   "w": [
+    "Bulldogs",
+    "Boxers",
+    "Chihuahua"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
+  },
+  {
+   "id": "p-1owomp5",
+   "c": "sci",
+   "d": 2,
+   "q": "What are rhino's horn made of?",
+   "a": "Keratin",
+   "w": [
+    "Bone",
+    "Ivory",
+    "Skin"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-02"
   }
  ]
 };
