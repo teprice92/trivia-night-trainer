@@ -4712,6 +4712,1191 @@ window.TRIVIA_PACKS = {
    "n": "Seuss was his mother's maiden name and his own middle name.",
    "src": "claude",
    "added": "2026-11-09"
+  },
+  {
+   "id": "p-10ehc5v",
+   "c": "random",
+   "d": 2,
+   "q": "When was WhatsApp founded?",
+   "a": "2009",
+   "w": [
+    "2007",
+    "2012",
+    "2010"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-u8khqu",
+   "c": "random",
+   "d": 2,
+   "q": "What is the Swedish word for \"window\"?",
+   "a": "Fönster",
+   "w": [
+    "Hål",
+    "Skärm",
+    "Ruta"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-sx0obs",
+   "c": "random",
+   "d": 1,
+   "q": "The drug cartel run by Pablo Escobar originated in which South American city?",
+   "a": "Medellín",
+   "w": [
+    "Bogotá",
+    "Quito",
+    "Cali"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-c1muls",
+   "c": "random",
+   "d": 2,
+   "q": "Astraphobia is the irrational fear of what?",
+   "a": "Thunder",
+   "w": [
+    "Rain",
+    "Wind",
+    "Snow"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-9iktrm",
+   "c": "random",
+   "d": 2,
+   "q": "What is the name of the very first video uploaded to YouTube?",
+   "a": "Me at the zoo",
+   "w": [
+    "tribute",
+    "carrie rides a truck",
+    "Her new puppy from great grandpa vern."
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-6zmofz",
+   "c": "random",
+   "d": 2,
+   "q": "Which mountain has the highest peak in North America?",
+   "a": "Denali, USA",
+   "w": [
+    "Mount Saint Elias, US/Canada border",
+    "Mount Logan, Canada",
+    "Pico de Orizaba, Mexico"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-vlvexr",
+   "c": "random",
+   "d": 1,
+   "q": "What is Cynophobia the fear of?",
+   "a": "Dogs",
+   "w": [
+    "Birds",
+    "Flying",
+    "Germs"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-gs8nsg",
+   "c": "random",
+   "d": 1,
+   "q": "How tall is the Burj Khalifa?",
+   "a": "2,722 ft",
+   "w": [
+    "2,717 ft",
+    "2,546 ft",
+    "3,024 ft"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-f6tw8g",
+   "c": "random",
+   "d": 1,
+   "q": "The Hyundai Motor Company was founded in which country?",
+   "a": "South Korea",
+   "w": [
+    "Russia",
+    "Japan",
+    "China"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-cotiow",
+   "c": "pop",
+   "d": 2,
+   "q": "In \"The Hobbit,\" who was head of the White Council?",
+   "a": "Saruman",
+   "w": [
+    "Lady Galadriel",
+    "Gandalf",
+    "Elrond"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1nezdys",
+   "c": "pop",
+   "d": 1,
+   "q": "Who directed the 2015 movie \"The Revenant\"?",
+   "a": "Alejandro G. Iñárritu",
+   "w": [
+    "Christopher Nolan",
+    "David Fincher",
+    "Wes Anderson"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1u5lffg",
+   "c": "pop",
+   "d": 1,
+   "q": "Who is the protagonist of the 2002 film \"Kung Pow! Enter the Fist\"?",
+   "a": "Chosen One",
+   "w": [
+    "Dragon King",
+    "Iron Monkey",
+    "Master Tang"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-3pkzwt",
+   "c": "pop",
+   "d": 2,
+   "q": "What was Marilyn Monroe`s character's first name in the film \"Some Like It Hot\"?",
+   "a": "Sugar",
+   "w": [
+    "Honey",
+    "Caramel",
+    "Candy"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-hds3t5",
+   "c": "pop",
+   "d": 2,
+   "q": "After India, which country produces the second most movies per year?",
+   "a": "Nigeria",
+   "w": [
+    "United States",
+    "China",
+    "France"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1lzz904",
+   "c": "pop",
+   "d": 2,
+   "q": "What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?",
+   "a": "Gort",
+   "w": [
+    "Robby",
+    "Colossus",
+    "Box"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1p9bwgz",
+   "c": "pop",
+   "d": 1,
+   "q": "Where does the original Friday The 13th movie take place?",
+   "a": "Camp Crystal Lake",
+   "w": [
+    "Packanack",
+    "Higgins Haven",
+    "Camp Forest Green"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1uf6q1l",
+   "c": "pop",
+   "d": 3,
+   "q": "What did Alfred Hitchcock use as blood in the film \"Psycho\"?",
+   "a": "Chocolate syrup",
+   "w": [
+    "Ketchup",
+    "Red food coloring",
+    "Maple syrup"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-wlxxg5",
+   "c": "pop",
+   "d": 2,
+   "q": "Brendan Fraser starred in the following movies, except which one?",
+   "a": "Titanic",
+   "w": [
+    "Monkeybone",
+    "Encino Man",
+    "Mrs. Winterbourne"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1aanu63",
+   "c": "music",
+   "d": 2,
+   "q": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+   "a": "Andrew Gold",
+   "w": [
+    "Elton John",
+    "Leo Sayer",
+    "Barry White"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-92ahtf",
+   "c": "music",
+   "d": 1,
+   "q": "The band Muse released their first album, Showbiz, in what year?",
+   "a": "1999",
+   "w": [
+    "1998",
+    "2000",
+    "2001"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-13neq8n",
+   "c": "music",
+   "d": 2,
+   "q": "The Who's eponymous line, \"Teenage Wasteland\", appears in which of their songs?",
+   "a": "Baba O' Riley",
+   "w": [
+    "The Seeker",
+    "Won't Get Fooled Again",
+    "Pinball Wizard"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-15b4gfh",
+   "c": "music",
+   "d": 1,
+   "q": "Which of the following songs did Elton John perform following Princess Diane's passing?",
+   "a": "Candles in the Wind",
+   "w": [
+    "I Guess That's Why They Call It The Blues",
+    "Your Song",
+    "Island Girl"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-11s8v12",
+   "c": "music",
+   "d": 2,
+   "q": "What is the real name of American rapper Pitbull?",
+   "a": "Armando Christian Pérez",
+   "w": [
+    "Ramón Luis Ayala Rodríguez",
+    "Benito Antonio Martinez Ocasio",
+    "Belcalis Marlenis Almánzar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-3r68o0",
+   "c": "music",
+   "d": 3,
+   "q": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+   "a": "Snare Drum",
+   "w": [
+    "Cow Bell",
+    "Bass Drum",
+    "Maraca"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1jfziru",
+   "c": "music",
+   "d": 1,
+   "q": "Which of these is NOT considered a woodwind instrument?",
+   "a": "Trombone",
+   "w": [
+    "Oboe",
+    "Clarinet",
+    "Bassoon"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1rmh4ks",
+   "c": "music",
+   "d": 2,
+   "q": "With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?",
+   "a": "Vivaldi",
+   "w": [
+    "Puccini",
+    "Verdi",
+    "Monteverdi"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1f352s7",
+   "c": "music",
+   "d": 1,
+   "q": "What album did Bon Iver release in 2016?",
+   "a": "22, A Million",
+   "w": [
+    "Bon Iver, Bon Iver",
+    "Blood Bank EP",
+    "For Emma, Forever Ago"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-qvu3m5",
+   "c": "pop",
+   "d": 1,
+   "q": "In DuckTales, what is the name of the city where all the main characters live?",
+   "a": "Duckburg",
+   "w": [
+    "Duckwing",
+    "Tailspin",
+    "Wingford"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1jpnk91",
+   "c": "pop",
+   "d": 1,
+   "q": "In \"Breaking Bad\", Walter White is a high school teacher diagnosed with which form of cancer?",
+   "a": "Lung Cancer",
+   "w": [
+    "Prostate Cancer",
+    "Brain Cancer",
+    "Testicular Cancer"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-sb3w6s",
+   "c": "pop",
+   "d": 1,
+   "q": "In the Star Trek universe, what color is Vulcan blood?",
+   "a": "Green",
+   "w": [
+    "Blue",
+    "Red",
+    "Purple"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-kexrez",
+   "c": "pop",
+   "d": 1,
+   "q": "On the NBC show Community, whose catch-phrase was \"Pop! Pop!\"?",
+   "a": "Magnitude",
+   "w": [
+    "Star Burns",
+    "Leonard",
+    "Senoir Chang"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1hi5zz2",
+   "c": "pop",
+   "d": 1,
+   "q": "Who won Big Brother 2014 UK?",
+   "a": "Helen Wood",
+   "w": [
+    "Christopher Hall",
+    "Pauline Bennett",
+    "Pavandeep \"Pav\" Paul"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-aq3l3z",
+   "c": "pop",
+   "d": 2,
+   "q": "What is the name of the race horse that Tony Soprano becomes attached to?",
+   "a": "Pie-O-My",
+   "w": [
+    "Man o' war",
+    "Bada Bing",
+    "Honest Earnings"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-13xa8ai",
+   "c": "pop",
+   "d": 1,
+   "q": "In season one of the Netflix political drama \"House of Cards\", what government position does Frank Underwood hold?",
+   "a": "House Majority Whip",
+   "w": [
+    "Attorney General",
+    "President",
+    "Chief of Staff"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-44dy4t",
+   "c": "pop",
+   "d": 2,
+   "q": "What is Meg's full name in \"Family Guy\"?",
+   "a": "Megatron Griffin",
+   "w": [
+    "Who-Cares Griffin",
+    "Neil Griffin",
+    "Megan Griffin"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-mfrbew",
+   "c": "pop",
+   "d": 2,
+   "q": "Who sang the theme song for the TV show 'Rawhide'?",
+   "a": "Frankie Laine",
+   "w": [
+    "Guy Mitchell",
+    "Tennessee Ernie Ford",
+    "Slim Whitman"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-14qaihp",
+   "c": "sci",
+   "d": 3,
+   "q": "How much radiation does a banana emit?",
+   "a": "0.1 Microsievert",
+   "w": [
+    "0.3 Microsievert",
+    "0.5 Microsievert",
+    "0.7 Microsievert"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1vuxvh2",
+   "c": "sci",
+   "d": 3,
+   "q": "Which of these is a semiconductor amplifying device?",
+   "a": "transistor",
+   "w": [
+    "tube",
+    "diode",
+    "P-N junction"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-zh814x",
+   "c": "sci",
+   "d": 3,
+   "q": "What nucleotide pairs with guanine?",
+   "a": "Cytosine",
+   "w": [
+    "Thymine",
+    "Adenine",
+    "Uracil"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1irbr1v",
+   "c": "sci",
+   "d": 3,
+   "q": "How many legs is it biologically impossible for a centipede to have?",
+   "a": "100",
+   "w": [
+    "26",
+    "50",
+    "74"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-sq94k9",
+   "c": "sci",
+   "d": 1,
+   "q": "What is the chemical symbol for Helium?",
+   "a": "He",
+   "w": [
+    "H",
+    "Hg",
+    "Hs"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-fpzivz",
+   "c": "sci",
+   "d": 3,
+   "q": "Where in the human body is the Pineal Gland located?",
+   "a": "Brain",
+   "w": [
+    "Groin",
+    "Chest",
+    "Throat"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1mlpxiv",
+   "c": "sci",
+   "d": 2,
+   "q": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+   "a": "2",
+   "w": [
+    "0",
+    "1",
+    "5"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-getexl",
+   "c": "sci",
+   "d": 2,
+   "q": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+   "a": "21",
+   "w": [
+    "23",
+    "15",
+    "24"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-k64txj",
+   "c": "sci",
+   "d": 1,
+   "q": "About what percentage of the Earth's surface is water?",
+   "a": "70%",
+   "w": [
+    "30%",
+    "50%",
+    "90%"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-w77y8h",
+   "c": "sports",
+   "d": 1,
+   "q": "Which country produced football players such as Cafu, Roberto Carlos and Pelé?",
+   "a": "Brazil",
+   "w": [
+    "Argentina",
+    "Portugal",
+    "Spain"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-7ygf3m",
+   "c": "sports",
+   "d": 1,
+   "q": "What team won the 2016 MLS Cup?",
+   "a": "Seattle Sounders",
+   "w": [
+    "Colorado Rapids",
+    "Toronto FC",
+    "Montreal Impact"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1miwcmt",
+   "c": "sports",
+   "d": 2,
+   "q": "Who was the top scorer of the 2014 FIFA World Cup?",
+   "a": "James Rodríguez",
+   "w": [
+    "Thomas Müller",
+    "Lionel Messi",
+    "Neymar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-2jyi3b",
+   "c": "sports",
+   "d": 2,
+   "q": "Which team was the 2014-2015 NBA Champions?",
+   "a": "Golden State Warriors",
+   "w": [
+    "Cleveland Cavaliers",
+    "Houston Rockets",
+    "Atlanta Hawks"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1h3sayv",
+   "c": "sports",
+   "d": 1,
+   "q": "The Los Angeles Dodgers were originally from what U.S. city?",
+   "a": "Brooklyn",
+   "w": [
+    "Las Vegas",
+    "Boston",
+    "Seattle"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-c7w4dg",
+   "c": "sports",
+   "d": 1,
+   "q": "Which wrestler won the 2019 Men’s Royal Rumble?",
+   "a": "Seth Rollins",
+   "w": [
+    "Braun Strowman",
+    "AJ Styles",
+    "Andrade"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1n5dpwa",
+   "c": "sports",
+   "d": 1,
+   "q": "In bowling, what is the term used for getting three consecutive strikes?",
+   "a": "Turkey",
+   "w": [
+    "Flamingo",
+    "Birdie",
+    "Eagle"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1gcfdgl",
+   "c": "sports",
+   "d": 1,
+   "q": "What national team won the first UEFA Nations League?",
+   "a": "Portugal",
+   "w": [
+    "Netherlands",
+    "England",
+    "Switzerland"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-4ps7yz",
+   "c": "geo",
+   "d": 2,
+   "q": "Which is the largest of these 4 islands?",
+   "a": "Borneo",
+   "w": [
+    "Great Britain",
+    "Cuba",
+    "Madagascar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1mev0au",
+   "c": "geo",
+   "d": 2,
+   "q": "Frankenmuth, a US city nicknamed \"Little Bavaria\", is located in what state?",
+   "a": "Michigan",
+   "w": [
+    "Pennsylvania",
+    "Kentucky",
+    "Virginia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-7m0228",
+   "c": "geo",
+   "d": 3,
+   "q": "What is the name of rocky region that spans most of eastern Canada?",
+   "a": "Canadian Shield",
+   "w": [
+    "Rocky Mountains",
+    "Appalachian Mountains",
+    "Himalayas"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1cxatei",
+   "c": "geo",
+   "d": 3,
+   "q": "What is the official German name of the Swiss Federal Railways?",
+   "a": "Schweizerische Bundesbahnen",
+   "w": [
+    "Schweizerische Nationalbahnen",
+    "Bundesbahnen der Schweiz",
+    "Schweizerische Staatsbahnen"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1haevp2",
+   "c": "geo",
+   "d": 1,
+   "q": "What is the Polish city known to Germans as Danzig?",
+   "a": "Gdańsk",
+   "w": [
+    "Warsaw",
+    "Zakopane",
+    "Poznań"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-12knyv5",
+   "c": "geo",
+   "d": 1,
+   "q": "What is the capital of Denmark?",
+   "a": "Copenhagen",
+   "w": [
+    "Aarhus",
+    "Odense",
+    "Aalborg"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-10xyvkw",
+   "c": "geo",
+   "d": 2,
+   "q": "What is the capital of Senegal?",
+   "a": "Dakar",
+   "w": [
+    "Nouakchott",
+    "Conakry",
+    "Monrovia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-womxxc",
+   "c": "geo",
+   "d": 2,
+   "q": "How many time zones are in Russia?",
+   "a": "11",
+   "w": [
+    "8",
+    "5",
+    "2"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-vmlo8j",
+   "c": "geo",
+   "d": 3,
+   "q": "What is the area of Vatican City?",
+   "a": "0.44km^2",
+   "w": [
+    "0.10km^2",
+    "0.86km^2",
+    "12.00km^2"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1d9rp1q",
+   "c": "geo",
+   "d": 1,
+   "q": "How many US states start with the letter K?",
+   "a": "Two",
+   "w": [
+    "One",
+    "None",
+    "Three"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-10zkvb5",
+   "c": "history",
+   "d": 2,
+   "q": "Who was a military strategist in the Eastern Zhou period?",
+   "a": "Sun Tzu",
+   "w": [
+    "Lu Bu",
+    "Genghis Khan",
+    "Vlad The Impaler"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1o2k3fr",
+   "c": "history",
+   "d": 2,
+   "q": "In which years did the Battle of Gallipoli take place?",
+   "a": "1915 - 1916",
+   "w": [
+    "1914 - 1918",
+    "1914 - 1915",
+    "1915 - 1918"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1vxvco7",
+   "c": "history",
+   "d": 2,
+   "q": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+   "a": "Hampton Court",
+   "w": [
+    "St James's Palace",
+    "Buckingham Palace",
+    "Coughton Court"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-tamwhy",
+   "c": "history",
+   "d": 1,
+   "q": "What year did World War II end?",
+   "a": "1945",
+   "w": [
+    "1943",
+    "1947",
+    "1950"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-13kqttj",
+   "c": "history",
+   "d": 2,
+   "q": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+   "a": "Pope Leo III",
+   "w": [
+    "Pope Urban IV",
+    "Pope Stephen V",
+    "Pope Valentine"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-18koboi",
+   "c": "history",
+   "d": 2,
+   "q": "Who is attributed credit for recording the epic poem The Odyssey?",
+   "a": "Homer",
+   "w": [
+    "Aristotle",
+    "Odysseus",
+    "Socrates"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-yzc8d5",
+   "c": "history",
+   "d": 2,
+   "q": "Who assassinated Archduke Franz Ferdinand?",
+   "a": "Gavrilo Princip",
+   "w": [
+    "Nedeljko Čabrinović",
+    "Oskar Potiorek",
+    "Ferdinand Cohen-Blind"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-fa9aw7",
+   "c": "history",
+   "d": 2,
+   "q": "When was \"The Gadget\", the first nuclear device to be detonated, tested?",
+   "a": "July 16, 1945",
+   "w": [
+    "June 22, 1945",
+    "August 6, 1945",
+    "April 5, 1945"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1c6sqk5",
+   "c": "history",
+   "d": 1,
+   "q": "What is the historical name of Sri Lanka?",
+   "a": "Ceylon",
+   "w": [
+    "Myanmar",
+    "Colombo",
+    "Badulla"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1pse06",
+   "c": "sci",
+   "d": 3,
+   "q": "What scientific family does the Aardwolf belong to?",
+   "a": "Hyaenidae",
+   "w": [
+    "Canidae",
+    "Felidae",
+    "Eupleridae"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1svsflr",
+   "c": "sci",
+   "d": 2,
+   "q": "\"Decapods\" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+   "a": "Krill",
+   "w": [
+    "Lobsters",
+    "Shrimp",
+    "Crabs"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-zysp8j",
+   "c": "sci",
+   "d": 3,
+   "q": "What is the scientific name for the Bald Eagle?",
+   "a": "Haliaeetus Leucocephalus",
+   "w": [
+    "Tyto Alba",
+    "Cyanocitta Cristata",
+    "Aquila Chrysaetos"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1v94egn",
+   "c": "sci",
+   "d": 1,
+   "q": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+   "a": "New Zealand",
+   "w": [
+    "South Africa",
+    "Australia",
+    "Madagascar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1lfq78d",
+   "c": "sci",
+   "d": 1,
+   "q": "Which class of animals are newts members of?",
+   "a": "Amphibian",
+   "w": [
+    "Fish",
+    "Reptiles",
+    "Mammals"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1wsjuhi",
+   "c": "sci",
+   "d": 3,
+   "q": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+   "a": "Hemocyanin",
+   "w": [
+    "Cytochrome",
+    "Iron",
+    "Methionine"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "p-1oxk0l5",
+   "c": "sci",
+   "d": 1,
+   "q": "How many legs do butterflies have?",
+   "a": "6",
+   "w": [
+    "2",
+    "4",
+    "0"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-09"
   }
  ]
 };
