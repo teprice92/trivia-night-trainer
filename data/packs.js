@@ -6212,6 +6212,1131 @@ window.TRIVIA_PACKS = {
    "n": "\"Marley was dead: to begin with,\" is the book's opening line.",
    "src": "claude",
    "added": "2026-11-16"
+  },
+  {
+   "id": "p-1vp8nmf",
+   "c": "random",
+   "d": 1,
+   "q": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+   "a": "Wendy's",
+   "w": [
+    "Domino's",
+    "Little Caesars",
+    "Papa John's"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-kucar",
+   "c": "random",
+   "d": 2,
+   "q": "What is the real name of viral internet meme Grumpy Cat?",
+   "a": "Tardar Sauce",
+   "w": [
+    "Lil Bub",
+    "Maru",
+    "Colonel Meow"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1wg7gvj",
+   "c": "random",
+   "d": 2,
+   "q": "Where did the pineapple plant originate?",
+   "a": "South America",
+   "w": [
+    "Hawaii",
+    "Europe",
+    "Asia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1ijxgek",
+   "c": "random",
+   "d": 1,
+   "q": "When one is \"envious\", they are said to be what color?",
+   "a": "Green",
+   "w": [
+    "Red",
+    "Blue",
+    "Yellow"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-ikku2v",
+   "c": "random",
+   "d": 1,
+   "q": "Which American president appears on a one dollar bill?",
+   "a": "George Washington",
+   "w": [
+    "Thomas Jefferson",
+    "Abraham Lincoln",
+    "Benjamin Franklin"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-t3wsuk",
+   "c": "random",
+   "d": 2,
+   "q": "Which American manufactured submachine gun was informally known by the American soldiers that used it as \"Grease Gun\"?",
+   "a": "M3",
+   "w": [
+    "Colt 9mm",
+    "Thompson",
+    "MAC-10"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1phlfse",
+   "c": "random",
+   "d": 1,
+   "q": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+   "a": "Thomas Jefferson",
+   "w": [
+    "Martin Van Buren",
+    "Ulysses Grant",
+    "John Quincy Adams"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-uvht7g",
+   "c": "random",
+   "d": 2,
+   "q": "If a person's hair is described as 'Titian', what colour is it?",
+   "a": "Red",
+   "w": [
+    "Blonde",
+    "Brunette",
+    "Black"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-jaih28",
+   "c": "pop",
+   "d": 1,
+   "q": "At the end of the 2001 film \"Rat Race\", whose concert do the contestants crash?",
+   "a": "Smash Mouth",
+   "w": [
+    "Bowling for Soup",
+    "Sum 41",
+    "Linkin Park"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-qzmxij",
+   "c": "pop",
+   "d": 1,
+   "q": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+   "a": "Wilson",
+   "w": [
+    "Friday",
+    "Jones",
+    "Billy"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-4821sj",
+   "c": "pop",
+   "d": 3,
+   "q": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+   "a": "Beer",
+   "w": [
+    "Fast food",
+    "Food stamps",
+    "They weren't paid"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1ctq2ef",
+   "c": "pop",
+   "d": 1,
+   "q": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+   "a": "Ming Tea",
+   "w": [
+    "Cough Fi",
+    "Spear Mint",
+    "Mister E"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1s66lvw",
+   "c": "pop",
+   "d": 2,
+   "q": "In the movie \"Back to the Future,\" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",
+   "a": "88 mph",
+   "w": [
+    "77 mph",
+    "100 mph",
+    "70 mph"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1wenogi",
+   "c": "pop",
+   "d": 1,
+   "q": "Who starred in the film 1973 movie \"Enter The Dragon\"?",
+   "a": "Bruce Lee",
+   "w": [
+    "Jackie Chan",
+    "Jet Li",
+    "Yun-Fat Chow"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-z6808z",
+   "c": "pop",
+   "d": 1,
+   "q": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+   "a": "Harry Potter",
+   "w": [
+    "Ted",
+    "Spy Kids",
+    "Pirates of the Caribbean"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1y3gqwz",
+   "c": "pop",
+   "d": 1,
+   "q": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
+   "a": "Tommy Lee Jones",
+   "w": [
+    "Harrison Ford",
+    "Harvey Keitel",
+    "Martin Landau"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-lfvzwr",
+   "c": "pop",
+   "d": 2,
+   "q": "Who voiced Metalbeard in \"The Lego Movie\"?",
+   "a": "Nick Offerman",
+   "w": [
+    "Liam Neeson",
+    "Morgan Freeman",
+    "Will Arnet"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-2uim0y",
+   "c": "pop",
+   "d": 1,
+   "q": "What was the first James Bond film?",
+   "a": "Dr. No",
+   "w": [
+    "Goldfinger",
+    "From Russia With Love",
+    "Thunderball"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-7htfar",
+   "c": "music",
+   "d": 2,
+   "q": "\"Make You Feel My Love\" was originally written and performed by which singer-songwriter?",
+   "a": "Bob Dylan",
+   "w": [
+    "Elvis",
+    "Adele",
+    "Billy Joel"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-6ddq5x",
+   "c": "music",
+   "d": 3,
+   "q": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+   "a": "Limitless Fury",
+   "w": [
+    "Let The Sparks Fly",
+    "Down",
+    "Give Up The Ghost"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1sfj869",
+   "c": "music",
+   "d": 2,
+   "q": "Which music artist made the songs \"Heart\", \"It's a Sin\", and \"West End Girls\"?",
+   "a": "Pet Shop Boys",
+   "w": [
+    "The Human League",
+    "New Order",
+    "Ultravox"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1g9u27o",
+   "c": "music",
+   "d": 2,
+   "q": "What year was Weezer's album \"Pinkerton\" released?",
+   "a": "1996",
+   "w": [
+    "1990",
+    "2001",
+    "1994"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-m1xsi1",
+   "c": "music",
+   "d": 1,
+   "q": "Of which 90s boy band was Justin Timberlake a member?",
+   "a": "*NSYNC",
+   "w": [
+    "Backstreet Boys",
+    "Westlife",
+    "Boyzone"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-h0yazb",
+   "c": "music",
+   "d": 2,
+   "q": "\"The Day the Music Died\" was a tragic plane crash that killed three musicians in which decade?",
+   "a": "50's",
+   "w": [
+    "60's",
+    "70's",
+    "40's"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-ehty58",
+   "c": "music",
+   "d": 3,
+   "q": "Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
+   "a": "David Gilmour",
+   "w": [
+    "Jimmy Page",
+    "Mark Knopfler",
+    "Eric Clapton"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-6ttj3q",
+   "c": "music",
+   "d": 2,
+   "q": "Which Toronto landmark was featured on the cover art of Canadian rapper Drake's 2016 album \"Views\"?",
+   "a": "CN Tower",
+   "w": [
+    "Allan Gardens",
+    "Union Station",
+    "Prince of Wales Theatre"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-3qty0c",
+   "c": "music",
+   "d": 2,
+   "q": "The 2010 song \"Eenie Meenie\" was a collaboration between which two popular artists?",
+   "a": "Sean Kingston & Justin Bieber",
+   "w": [
+    "Eminem & Rihanna",
+    "Usher & Pitbull",
+    "Lady Gaga & Beyoncé"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-cwn1ur",
+   "c": "pop",
+   "d": 1,
+   "q": "What was the name of the the first episode of Doctor Who to air in 1963?",
+   "a": "An Unearthly Child",
+   "w": [
+    "The Daleks",
+    "The Aztecs",
+    "The Edge of Destruction"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-p4v0ma",
+   "c": "pop",
+   "d": 1,
+   "q": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+   "a": "Oscar",
+   "w": [
+    "Emmy",
+    "Tony",
+    "Grammy"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1xm00x7",
+   "c": "pop",
+   "d": 2,
+   "q": "In what year did \"The Big Bang Theory\" debut on CBS?",
+   "a": "2007",
+   "w": [
+    "2008",
+    "2006",
+    "2009"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-raifj4",
+   "c": "pop",
+   "d": 3,
+   "q": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+   "a": "Rik Mayall",
+   "w": [
+    "Adrian Edmondson",
+    "Nigel Planer",
+    "Christopher Ryan"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-y72uvw",
+   "c": "pop",
+   "d": 1,
+   "q": "In AMC's TV Series \"The Walking Dead\" what are \"Zombies\" referred to as?",
+   "a": "Walkers",
+   "w": [
+    "Creepers",
+    "Maggots",
+    "Hell Pigs"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-thgbil",
+   "c": "pop",
+   "d": 1,
+   "q": "How many seasons did the Sci-Fi television show \"Stargate Universe\" have?",
+   "a": "2",
+   "w": [
+    "10",
+    "5",
+    "3"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1fzp2yh",
+   "c": "pop",
+   "d": 2,
+   "q": "In the comedy series \"Trailer Park Boys\", which of the following characters takes care of stray cats?",
+   "a": "Bubbles",
+   "w": [
+    "Ricky",
+    "Julian",
+    "Randy"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-euirvu",
+   "c": "pop",
+   "d": 1,
+   "q": "In the show \"Tengen Toppa Gurren Lagann\" what is the name of the character who force everyone to live underground?",
+   "a": "Lordgenome",
+   "w": [
+    "Kingloname",
+    "Lord Genome",
+    "King Loname"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1ughk4o",
+   "c": "sci",
+   "d": 1,
+   "q": "What lies at the center of our galaxy?",
+   "a": "A black hole",
+   "w": [
+    "A wormhole",
+    "A supernova",
+    "A quasar"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-rj28cq",
+   "c": "sci",
+   "d": 3,
+   "q": "Which of the following are cells of the adaptive immune system?",
+   "a": "Cytotoxic T cells",
+   "w": [
+    "Dendritic cells",
+    "Natural killer cells",
+    "White blood cells"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-rgf3op",
+   "c": "sci",
+   "d": 1,
+   "q": "How many planets are there in the Solar System?",
+   "a": "8",
+   "w": [
+    "9",
+    "11",
+    "10"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-cud3p1",
+   "c": "sci",
+   "d": 2,
+   "q": "What part of the body produces insulin?",
+   "a": "Pancreas",
+   "w": [
+    "Kidney",
+    "Liver",
+    "Stomach"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1dyrv66",
+   "c": "sci",
+   "d": 1,
+   "q": "Who is the chemical element Curium named after?",
+   "a": "Marie & Pierre Curie",
+   "w": [
+    "The Curiosity Rover",
+    "Curious George",
+    "Stephen Curry"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-guthlo",
+   "c": "sci",
+   "d": 2,
+   "q": "Which of these choices is not one of the phases of mitosis?",
+   "a": "Diplophase",
+   "w": [
+    "Metaphase",
+    "Anaphase",
+    "Telophase"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1ncm1v0",
+   "c": "sci",
+   "d": 3,
+   "q": "A comet's gaseous envelope (which creates the tail) is called what?",
+   "a": "The coma",
+   "w": [
+    "The wake",
+    "The backwash",
+    "The ablative"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-ukww6f",
+   "c": "sci",
+   "d": 2,
+   "q": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+   "a": "Sagittarius A*",
+   "w": [
+    "Messier 87",
+    "Alpha Centauri",
+    "Andromeda"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1g76s01",
+   "c": "sports",
+   "d": 3,
+   "q": "Etihad Stadium is the home stadium for which team?",
+   "a": "Manchester City",
+   "w": [
+    "Manchester United",
+    "Arsenal",
+    "Blackpool"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-9ew6ch",
+   "c": "sports",
+   "d": 1,
+   "q": "Which team won 2014 FIFA World Cup in Brazil?",
+   "a": "Germany",
+   "w": [
+    "Argentina",
+    "Brazil",
+    "Netherlands"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1p3wviy",
+   "c": "sports",
+   "d": 1,
+   "q": "\"Stadium of Light\" is the home stadium for which soccer team?",
+   "a": "Sunderland FC",
+   "w": [
+    "Barcelona FC",
+    "Paris Saints-Germain",
+    "Manchester United"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1x1tia",
+   "c": "sports",
+   "d": 1,
+   "q": "Which country hosted the 2022 FIFA World Cup?",
+   "a": "Qatar",
+   "w": [
+    "USA",
+    "Japan",
+    "Switzerland"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-xm5e0d",
+   "c": "sports",
+   "d": 2,
+   "q": "Which of these teams isn't a member of the NHL's \"Original Six\" era?",
+   "a": "Philadelphia Flyers",
+   "w": [
+    "New York Rangers",
+    "Toronto Maple Leafs",
+    "Boston Bruins"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-17q9k7i",
+   "c": "sports",
+   "d": 2,
+   "q": "Edson Arantes do Nascimento is the full name of which legendary football player?",
+   "a": "Pelé",
+   "w": [
+    "Romário",
+    "Zico",
+    "Ronaldinho"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-vqgnki",
+   "c": "geo",
+   "d": 3,
+   "q": "In 2012 the German-speaking microstate \"Liechtenstein\" in Central Europe had a population of how many inhabitants?",
+   "a": "36,600",
+   "w": [
+    "2,400",
+    "90,000",
+    "323,400"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-193virq",
+   "c": "geo",
+   "d": 2,
+   "q": "What is the capital of the U.S. state Texas?",
+   "a": "Austin",
+   "w": [
+    "Dallas",
+    "Santa Fe",
+    "Houston"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1vvibh7",
+   "c": "geo",
+   "d": 2,
+   "q": "Which country has three capital cities?",
+   "a": "South Africa",
+   "w": [
+    "Somalia",
+    "China",
+    "United Kingdom"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1s40fvc",
+   "c": "geo",
+   "d": 1,
+   "q": "What is the name of the ocean that Hawaii is located in?",
+   "a": "Pacific",
+   "w": [
+    "Atlantic",
+    "Indian",
+    "Arctic"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1wo6bq7",
+   "c": "geo",
+   "d": 3,
+   "q": "Which of these is NOT a city in India?",
+   "a": "Islamabad",
+   "w": [
+    "Hyderabad",
+    "Ahmedabad",
+    "Ghaziabad"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1utfn5n",
+   "c": "geo",
+   "d": 1,
+   "q": "Which US state has the highest population?",
+   "a": "California",
+   "w": [
+    "New York",
+    "Texas",
+    "Florida"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-hxlfbu",
+   "c": "geo",
+   "d": 2,
+   "q": "Which of the following is NOT a capital city?",
+   "a": "Sydney",
+   "w": [
+    "Cairo",
+    "Moscow",
+    "Beijing"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1i4s83u",
+   "c": "geo",
+   "d": 2,
+   "q": "Which of these countries is NOT located in Africa?",
+   "a": "Suriname",
+   "w": [
+    "Burkina Faso",
+    "Mozambique",
+    "Algeria"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-qz54qr",
+   "c": "geo",
+   "d": 2,
+   "q": "Which one of these archipelagos are NOT a part of the United Kingdom?",
+   "a": "The Channel Islands",
+   "w": [
+    "Orkney Islands",
+    "Isles of Scilly",
+    "Shetland Islands"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1wr2cd5",
+   "c": "geo",
+   "d": 1,
+   "q": "Which of the following former Yugoslavian states is landlocked?",
+   "a": "Serbia",
+   "w": [
+    "Bosnia and Herzegovina",
+    "Montenegro",
+    "Croatia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-z3fm7r",
+   "c": "history",
+   "d": 3,
+   "q": "Which country were potatoes originally grown?",
+   "a": "Peru",
+   "w": [
+    "United States",
+    "Ireland",
+    "New Zealand"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-k0nxbd",
+   "c": "history",
+   "d": 1,
+   "q": "Which of the following African countries was most successful in resisting colonization?",
+   "a": "Ethiopia",
+   "w": [
+    "Côte d’Ivoire",
+    "Congo",
+    "Namibia"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1x1br70",
+   "c": "history",
+   "d": 1,
+   "q": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+   "a": "Hideki Tojo",
+   "w": [
+    "Michinomiya Hirohito",
+    "Isoroku Yamamoto",
+    "Fumimaro Konoe"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-25cjhs",
+   "c": "history",
+   "d": 2,
+   "q": "Who is believed to have been the first European to 'discover' the land of New Zealand?",
+   "a": "Abel Tasman",
+   "w": [
+    "Christopher Columbus",
+    "Jeanne Baré",
+    "John Cabot"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-hdp004",
+   "c": "history",
+   "d": 2,
+   "q": "What date was the first flight of the P-40 Warhawk?",
+   "a": "October 14 1938",
+   "w": [
+    "August 21 1939",
+    "January 12 1940",
+    "June 1 1939"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-a6re35",
+   "c": "history",
+   "d": 1,
+   "q": "Which game was the Game of the Year in 2018?",
+   "a": "God of War",
+   "w": [
+    "Detroit: Become Human",
+    "Red Dead Redemption 2",
+    "A Way Out"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1uhtekf",
+   "c": "history",
+   "d": 2,
+   "q": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+   "a": "Irish Republican Army",
+   "w": [
+    "Irish Rebel Alliance",
+    "Irish Reformation Army",
+    "Irish-Royal Alliance"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1e7w10",
+   "c": "history",
+   "d": 3,
+   "q": "Which one of these rulers did not belong to the Habsburg dynasty?",
+   "a": "Philip V",
+   "w": [
+    "Charles V",
+    "Philip II",
+    "Francis Joseph"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1ki3ojb",
+   "c": "history",
+   "d": 1,
+   "q": "How was Socrates executed?",
+   "a": "Poison",
+   "w": [
+    "Decapitation",
+    "Firing squad",
+    "Crucifixion"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1qqxice",
+   "c": "history",
+   "d": 2,
+   "q": "In what year did the North American Video Game Crash occur?",
+   "a": "1983",
+   "w": [
+    "1982",
+    "1993",
+    "1970"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1k5oto3",
+   "c": "sci",
+   "d": 2,
+   "q": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+   "a": "Nuts",
+   "w": [
+    "Nothing",
+    "Fruit",
+    "Seaweed"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-253gsc",
+   "c": "sci",
+   "d": 1,
+   "q": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+   "a": "Capture scent particles",
+   "w": [
+    "Taste the sweet air",
+    "Threaten other species",
+    "Attract female mates"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1qu5joh",
+   "c": "sci",
+   "d": 2,
+   "q": "About how much of their body weight in food do sea otters eat every day?",
+   "a": "25%",
+   "w": [
+    "10%",
+    "80%",
+    "45%"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-1n3prcl",
+   "c": "sci",
+   "d": 2,
+   "q": "What is the world's longest venomous snake?",
+   "a": "King Cobra",
+   "w": [
+    "Green Anaconda",
+    "Inland Taipan",
+    "Yellow Bellied Sea Snake"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-q000zc",
+   "c": "sci",
+   "d": 2,
+   "q": "Which dog breed is named after a region in Croatia",
+   "a": "Dalmatian",
+   "w": [
+    "Pekingnese",
+    "Chihuahua",
+    "Pomeranian"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
+  },
+  {
+   "id": "p-y5lgm5",
+   "c": "sci",
+   "d": 1,
+   "q": "Which breed of dog is traditionally associated with firefighters?",
+   "a": "Dalmatians",
+   "w": [
+    "German Shepard",
+    "Great Dane",
+    "Mastiff"
+   ],
+   "n": "",
+   "src": "opentdb",
+   "added": "2026-11-16"
   }
  ]
 };
